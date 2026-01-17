@@ -1,0 +1,51 @@
+.container h3 {
+    text-align: center;
+    margin-right: 10px;
+    color: rgb(147, 96, 0);
+}
+.container {
+    width: 350px;
+    height: 400px;
+    box-shadow: 3px 3px 5px;
+    padding-top: 3px;
+    margin-left: 40%;
+    margin-top: 7%;
+}
+
+.group{
+    padding-top: 3px;
+    font-size: 25px;
+    margin-left: 5px;
+}
+#allowance{
+    width: 330px;
+    height: 50px;
+    text-align: center;
+}
+#foodExpense{
+    width: 330px;
+    height: 50px;
+    text-align: center;
+}
+#transfortationExp{
+    width: 330px;
+    height: 50px;
+    text-align: center;
+}
+#calculate{
+    width: 338px;
+    height: 40px;
+    background-color: rgb(134, 134, 234);
+    font-size: 25px;
+    color: rgb(109, 73, 5);
+}
+#calculate:hover{
+    background-color: aquamarine;
+}
+#pre1{
+    font-size: 17px;
+}
+#pre2{
+    font-size: 17px;
+    color: rgb(143, 94, 2);
+}
